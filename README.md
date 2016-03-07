@@ -1,3 +1,1 @@
-HELLO
-my name is juyoung
-\nanother line
+Hi! my name is juyoung
