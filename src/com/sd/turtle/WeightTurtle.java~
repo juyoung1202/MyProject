@@ -1,0 +1,17 @@
+/*
+ * @author jyk
+ * @since 20160314
+ * to demo upcasting and downcasting
+ */
+
+package com.sd.turtle;
+
+import java.awt.Color;
+import ch.aplu.turtle.*;
+
+public class WeightTurtle extends Turtle{
+    private int weight;
+    public int getWeight(int w){
+      weight=w;
+    }
+}
